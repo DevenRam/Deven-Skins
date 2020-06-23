@@ -14,3 +14,13 @@ Latest main HDDT skin
 Latest main low AR/EZ skin
 ![](https://osu.ppy.sh/ss/15118225/063c)
 
+# [Snowy LP nomod](<insert link here>)
+Nomod skin made for Snowy LP (1.4k bancho, former Top 5 Akatsuki Relax Player). (wip, no link/pic yet)
+![](<insert ss here)
+
+# [Snowy LP HDDT](<insert link here>)
+HDDT skin made for Snowy LP (1.4k bancho, former Top 5 Akatsuki Relax Player). (wip, no link/pic yet)
+![](<insert ss here)
+
+
+
