@@ -1,5 +1,5 @@
 # Deven-Skins
-# Deven's Mainly Used osu! Skins
+Deven's Mainly Used osu! Skins
 in order of most used, then latest
 
 # [DevenRam v1.6.1 nomod](https://drive.google.com/u/0/uc?export=download&confirm=xOLR&id=1M4AzPxTjhNc6k_cOijlz_RCtppR6WtBE)
