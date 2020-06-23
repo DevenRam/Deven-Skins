@@ -18,7 +18,7 @@ Latest main low AR/EZ skin
 Nomod skin made for Snowy LP (1.4k bancho, former Top 5 Akatsuki Relax Player). (wip, no link/pic yet)
 ![](<insert ss here)
 
-# [Snowy LP HDDT v2.0](https://drive.google.com/uc?export=download&confirm=id=1BRpNz5cUk15gdUggDC0cZNk7P0EY0d05)
+# [Snowy LP HDDT v2.0](https://drive.google.com/uc?export=download&id=1BRpNz5cUk15gdUggDC0cZNk7P0EY0d05)
 HDDT skin made for Snowy LP (1.4k bancho, former Top 5 Akatsuki Relax Player). (wip, no link/pic yet)
 ![](<insert ss here)
 
