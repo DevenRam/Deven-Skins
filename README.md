@@ -22,5 +22,4 @@ Nomod skin made for Snowy LP (1.4k bancho, former Top 5 Akatsuki Relax Player). 
 HDDT skin made for Snowy LP (1.4k bancho, former Top 5 Akatsuki Relax Player).
 ![](https://osu.ppy.sh/ss/15118289/020f)
 
-
-
+I'll add less used/older skins when I feel less lazy lmao
