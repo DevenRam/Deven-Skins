@@ -10,16 +10,11 @@ Latest main skin
 Latest main HDDT skin
 ![](https://osu.ppy.sh/ss/15118223/6ba3)
 
-# [DevenRam v1.6.1 EZ](https://drive.google.com/uc?export=download&id=1sZAn-8M16kGw6afqrKPwEf51RMuXsYDP)
+# [DevenRam v1.6.2 EZ](https://drive.google.com/u/0/uc?export=download&confirm=i2yz&id=1zA5KsWeR39LR0bngtHpsQw8WeYZJNERt)
 Latest main low AR/EZ skin
+![](https://osu.ppy.sh/ss/15128790/9d37)
+
+# [DevenRam v1.6.1 EZ](https://drive.google.com/uc?export=download&id=1sZAn-8M16kGw6afqrKPwEf51RMuXsYDP)
 ![](https://osu.ppy.sh/ss/15118225/063c)
-
-# [Snowy LP nomod v2.0](https://drive.google.com/u/0/uc?export=download&confirm=y7gi&id=1zhb7JwAoAVKqtFrK9QDV4Nq95zREZO4K)
-Nomod skin made for Snowy LP (1.4k bancho, former Top 5 Akatsuki Relax Player).
-![](https://osu.ppy.sh/ss/15118300/28d0)
-
-# [Snowy LP HDDT v2.0](https://drive.google.com/uc?export=download&id=1BRpNz5cUk15gdUggDC0cZNk7P0EY0d05)
-HDDT skin made for Snowy LP (1.4k bancho, former Top 5 Akatsuki Relax Player).
-![](https://osu.ppy.sh/ss/15118289/020f)
 
 I'll add less used/older skins when I feel less lazy lmao
