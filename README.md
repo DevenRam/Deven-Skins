@@ -2,8 +2,12 @@
 Deven's Mainly Used osu! Skins
 in order of most used, then latest
 
-# [DevenRam v1.6.3 nomod](https://drive.google.com/uc?export=download&id=1KxFhB1uOKEbq5gJYHhaOgbKHaSRo4S8x)
-Latest main skin.
+# [DevenRam v1.6.3 wc](https://drive.google.com/uc?export=download&id=1XFJ1L14FAFSqLWy5ezJwpBizuEC8am3l)
+![](https://osu.ppy.sh/ss/15415652/dfb1)
+Main skin.
+
+# [DevenRam v1.6.3 shige](https://drive.google.com/uc?export=download&id=1KxFhB1uOKEbq5gJYHhaOgbKHaSRo4S8x)
+Shige edit.
 
 [DevenRam v1.6.1 nomod](https://drive.google.com/u/0/uc?export=download&confirm=xOLR&id=1M4AzPxTjhNc6k_cOijlz_RCtppR6WtBE)
 ![](https://osu.ppy.sh/ss/15118197/199d)
