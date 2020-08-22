@@ -17,5 +17,5 @@ Rafis edit; main HDDT skin.
 # [Generic HDDT](https://drive.google.com/uc?export=download&id=1FaAFZQozLmhfTD9uQW0CvIgv7p3-T9fH)
 The non-personalized version of my Rafis HDDT no weeb edit.
 
-This also includes a generic Rafis style scorebar that can be personalized with [this PSD template.](https://drive.google.com/uc?export=download&id=1b934NqrD43_Ifdo9wAi8a_d3gUy9i1kh)
+This also includes a generic Rafis style scorebar that can be personalized with [this PSD template.](https://drive.google.com/uc?export=download&id=1b934NqrD43_Ifdo9wAi8a_d3gUy9i1kh) DM me on Discord DevenRam#0855 if you need help editing the template for yourself or if you don't have photoshop.  I'll be more than happy to help if I'm not busy.
 ![](https://osu.ppy.sh/ss/15180085/ea3d)
