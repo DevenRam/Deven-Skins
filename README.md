@@ -1,16 +1,17 @@
 # Deven-Skins
 Deven's current osu! Skins in order of most used, then latest
 
-# [DevenRam v1.6.3 wc](https://drive.google.com/uc?export=download&id=1XFJ1L14FAFSqLWy5ezJwpBizuEC8am3l)
+# [DevenRam v1.6.3 WhiteCat](https://drive.google.com/uc?export=download&id=1XFJ1L14FAFSqLWy5ezJwpBizuEC8am3l)
+My main nomod skin.
 ![](https://osu.ppy.sh/ss/15415652/dfb1)
-Main skin.
 
-# [DevenRam v1.6.3 shige](https://drive.google.com/uc?export=download&id=1KxFhB1uOKEbq5gJYHhaOgbKHaSRo4S8x)
-Shige edit.
-
-# [Deven Rafis Edit](https://drive.google.com/uc?export=download&id=14fhcQ8-9ehcb0tcx_o2CPBcPLpQJxCVo)
+# [DevenRam v1.6.3 Rafis](https://drive.google.com/uc?export=download&id=14fhcQ8-9ehcb0tcx_o2CPBcPLpQJxCVo)
 Rafis edit; main HDDT skin.
 ![](https://osu.ppy.sh/ss/15180097/d712)
+
+# [DevenRam v1.6.3 Shige](https://drive.google.com/uc?export=download&id=1KxFhB1uOKEbq5gJYHhaOgbKHaSRo4S8x)
+Shige edit.
+![](https://osu.ppy.sh/ss/15118197/199d)
 
 # [Generic HDDT](https://drive.google.com/uc?export=download&id=1FaAFZQozLmhfTD9uQW0CvIgv7p3-T9fH)
 The non-personalized version of my Rafis HDDT no weeb edit.  I don't actually use this, I just think it's good for people who like my DT edit, but don't want the personalization.
