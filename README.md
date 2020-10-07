@@ -21,7 +21,7 @@ This also includes a generic Rafis style scorebar that can be personalized with 
 # [404 AimNotFound edit](https://drive.google.com/uc?export=download&id=1L6no-vziFw-gDa0HCXTR3qiYV-4GPenA)
 ![](https://osu.ppy.sh/ss/15471352/b7a1)
 
-# [osu! Default Improved](https://drive.google.com/uc?export=download&id=1ft-YVLo0HmX37M2hWXsw1fEjEz8wMO6U)
+# [osu! Default Improved](https://drive.google.com/u/0/uc?export=download&confirm=Nep5&id=1ft-YVLo0HmX37M2hWXsw1fEjEz8wMO6U)
 ![](https://osu.ppy.sh/ss/15471333/66f7)
 
 # [DevenRam v1.6.3 Shige](https://drive.google.com/uc?export=download&id=1KxFhB1uOKEbq5gJYHhaOgbKHaSRo4S8x)
