@@ -15,7 +15,7 @@ The non-personalized version of my Rafis HDDT no weeb edit.  I don't actually us
 This also includes a generic Rafis style scorebar that can be personalized with [this PSD template.](https://drive.google.com/uc?export=download&id=1b934NqrD43_Ifdo9wAi8a_d3gUy9i1kh) DM me on Discord DevenRam#0855 if you need help editing the template for yourself or if you don't have photoshop.  I'll be more than happy to help if I'm not busy.
 ![](https://osu.ppy.sh/ss/15180085/ea3d)
 
-# [Aristia (Deven edit)](https://drive.google.com/uc?export=download&id=1aP2RgYdE3cQRxlBLweDFaPcyQQsiHZT7)
+# [Aristia (Deven edit)](https://drive.google.com/u/0/uc?export=download&confirm=FZ9i&id=1aP2RgYdE3cQRxlBLweDFaPcyQQsiHZT7)
 ![](https://osu.ppy.sh/ss/15471336/b29c)
 
 # [404 AimNotFound edit](https://drive.google.com/uc?export=download&id=1L6no-vziFw-gDa0HCXTR3qiYV-4GPenA)
