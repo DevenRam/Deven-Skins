@@ -1,7 +1,7 @@
 # Deven-Skins
 Deven's current osu! Skins in order of most used, then latest
 
-# [DevenRam v1.6.3 WhiteCat](https://drive.google.com/uc?export=download&id=1XFJ1L14FAFSqLWy5ezJwpBizuEC8am3l)
+# [DevenRam v1.6.3 WhiteCat](https://drive.google.com/u/0/uc?export=download&confirm=5_Ud&id=1XFJ1L14FAFSqLWy5ezJwpBizuEC8am3l)
 WhiteCat edit; main nomod skin.
 ![](https://osu.ppy.sh/ss/15415652/dfb1)
 
