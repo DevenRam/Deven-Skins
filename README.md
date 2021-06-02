@@ -9,10 +9,10 @@ WhiteCat edit; main nomod skin.
 Rafis edit; main HDDT skin.
 ![](https://osu.ppy.sh/ss/15180097/d712)
 
-# [Generic HDDT](https://drive.google.com/uc?export=download&id=1FaAFZQozLmhfTD9uQW0CvIgv7p3-T9fH)
+# [Generic HDDT](https://drive.google.com/uc?export=download&id=17tdpCdsccH1VKYQnXadXn17Ih0USfJvL)
 The non-personalized version of my Rafis HDDT no weeb edit.  I don't actually use this, I just think it's good for people who like my DT edit, but don't want the personalization.
 
-This also includes a generic Rafis style scorebar that can be personalized with [this PSD template.](https://drive.google.com/uc?export=download&id=1b934NqrD43_Ifdo9wAi8a_d3gUy9i1kh) DM me on Discord DevenRam#0855 if you need help editing the template for yourself or if you don't have photoshop.  I'll be more than happy to help if I'm not busy.
+This also includes a generic Rafis style scorebar that can be personalized with [this PSD template.](https://drive.google.com/uc?export=download&id=1jtp0GBHXs4Ppsb5ZdTuIxz-I2-SDsVMY) DM me on Discord DevenRam#0855 if you need help editing the template for yourself or if you don't have photoshop.  I'll be more than happy to help if I'm not busy.
 ![](https://osu.ppy.sh/ss/15180085/ea3d)
 
 # [Aristia (Deven edit)](https://drive.google.com/u/0/uc?export=download&confirm=FZ9i&id=1aP2RgYdE3cQRxlBLweDFaPcyQQsiHZT7)
